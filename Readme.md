@@ -4,9 +4,16 @@ A repo to learn Assembly Language.
 
 ### 开发环境
 
+操作系统：Win10-x64
+
 编辑器：
 
--   [mrfearless/RadASM2](https://github.com/mrfearless/RadASM2)
+-   VSCODE
+
+插件：
+
+-   MASM/TASM
+-   MASM
 
 ### 书籍及资料
 
@@ -26,8 +33,8 @@ A repo to learn Assembly Language.
 
 ### 已完成项目
 
-| **项目** | **更新日期** | **备注** |
-| -------- | ------------ | -------- |
-|          |              |          |
-|          |              |          |
+| **项目**                                                   | **更新日期** | **备注**           |
+| ---------------------------------------------------------- | ------------ | ------------------ |
+| [HelloWorld](https://github.com/JasonkayZK/assembly_learn) | 2021-02-14   | 循环输出HelloWorld |
+|                                                            |              |                    |
 
