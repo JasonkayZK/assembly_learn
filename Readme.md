@@ -44,7 +44,7 @@ A repo to learn Assembly Language.
 | [chapter1-basic](https://github.com/JasonkayZK/assembly_learn/tree/chapter1-basic) | 2021-03-27   | 《汇编语言（第三版）》第一章笔记 |
 | chapter2                                                     |              |                                  |
 | chapter3                                                     |              |                                  |
-| [chapter4-first-program](chapter4-first-program)             | 2021-03-27   | 《汇编语言（第三版）》第四章笔记 |
+| [chapter4-first-program](https://github.com/JasonkayZK/assembly_learn/tree/chapter4-first-program)             | 2021-03-27   | 《汇编语言（第三版）》第四章笔记 |
 |                                                              |              |                                  |
 |                                                              |              |                                  |
 
